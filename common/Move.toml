@@ -1,0 +1,12 @@
+[package]
+name = "Common"
+version = "1.0.0"
+published-at="0x01d9a4afe9cb2ab11911bd3b424bcbde7de8b5baad01869159cea3e563dd8ab1"
+
+[dependencies]
+W3libs = { local = "../w3libs"}
+
+[addresses]
+common =  "0x01d9a4afe9cb2ab11911bd3b424bcbde7de8b5baad01869159cea3e563dd8ab1"
+w3libs = "0x99c98dc0c4d7dcf6aafe76c0a2578372e99872d9ed73c249b58b328a88873ea7"
+sui= "0x02"
