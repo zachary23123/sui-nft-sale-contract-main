@@ -1,0 +1,5 @@
+/build/
+*.lock
+/nft/build/
+/common/build/
+/w3libs/build/
